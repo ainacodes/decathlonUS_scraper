@@ -6,6 +6,8 @@ This project is a Python-based web scraper designed to extract product data from
 
 Read the step by step tutorial on [Scrape Shopify Data with Python: A Comprehensive Shopify Scraper Tutorial](https://rayobyte.com/community/scraping-project/scrape-shopify-data-with-python-a-comprehensive-shopify-scraper-tutorial/)
 
+Watch [youtube tutorial here](https://youtu.be/pAl0SYkeHd8?si=XNzsF6s9zkWfL4-D)
+
 ## Table of Contents
 
 - [Features](#features)
